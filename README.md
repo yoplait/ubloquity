@@ -9,17 +9,18 @@ In relation to the project related to multi Kubernetes cluster  `K8s`
 ## Instructions
 
 Following the ppt on the project for a federated clusters on: 
-[link](https://docs.google.com/presentation/d/1nQXW3vigquwjDZ14bIQ5u9DlTGaZoFZ9NhEyeb4ntK8/edit?usp=sharing)
 
+[link](https://docs.google.com/presentation/d/e/2PACX-1vSgs_XOcMppP-DA3lHvAB-bedlFY1K-VxyCpg377F98Ql6nLjq2R2cAcbFIlajjnliTII689_8nXPCy/pub?start=true&loop=false&delayms=5000)
+
+
+### Instruction
+
+Create single cluster
 
 Screenshot_1.png
 ![logo](https://github.com/yoplait/ubloquity/blob/main/images/Screenshot_1.png "Screenshot_1")
 
 
-### Instruction
-
-
-Create single cluster
 
 ```bash
 cd terraform-k8s-hetzner-single
