@@ -12,7 +12,6 @@ Following the ppt on the project for a federated clusters on:
 [link](https://docs.google.com/presentation/d/1nQXW3vigquwjDZ14bIQ5u9DlTGaZoFZ9NhEyeb4ntK8/edit?usp=sharing)
 
 
-
 Screenshot_1.png
 ![logo](https://github.com/yoplait/ubloquity/blob/main/images/Screenshot_1.png "Screenshot_1")
 
